@@ -15,11 +15,6 @@ sections:
 
       Email: ask.TECproots\@gmail.com
     actions: []
-    media:
-      url: /images/preveiw.PNG
-      altText: Protogen maker
-      elementId: ''
-      type: ImageBlock
     badge:
       label: TEC Protogens
       color: text-primary

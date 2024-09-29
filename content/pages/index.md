@@ -17,7 +17,7 @@ sections:
     actions: []
     media:
       url: /images/preveiw.PNG
-      altText: Unblock your team boost your time to production preview
+      altText: Protogen maker
       elementId: ''
       type: ImageBlock
     badge:

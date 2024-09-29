@@ -21,7 +21,7 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
+            "altText": "Reddit link",
             "url": "https://github.com/netlify",
             "icon": "github",
             "type": "Social"

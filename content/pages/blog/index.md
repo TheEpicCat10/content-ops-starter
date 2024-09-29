@@ -10,4 +10,6 @@ styles:
 type: PostFeedLayout
 bottomSections: []
 isDraft: true
+seo:
+  type: Seo
 ---

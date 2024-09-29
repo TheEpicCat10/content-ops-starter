@@ -19,14 +19,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Reddit link",
-            "url": "https://reddit.com/u/TheEppicCat10",
-            "icon": "reddit",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",

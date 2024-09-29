@@ -1,6 +1,6 @@
 ---
 title: Updates
-slug: /
+slug: /g
 numOfPostsPerPage: 12
 enableSearch: false
 topSections: []

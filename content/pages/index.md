@@ -14,7 +14,16 @@ sections:
       Discord: theepiccat10
 
       Email: ask.TECproots\@gmail.com
-    actions: []
+    actions:
+      - type: Link
+        label: Play
+        altText: Play
+        url: '/file:///C:/Users/TheEpicCat/Downloads/New%20folder'
+        showIcon: true
+        icon: play
+        iconPosition: right
+        style: secondary
+        elementId: ''
     badge:
       label: TEC Protogens
       color: text-primary
